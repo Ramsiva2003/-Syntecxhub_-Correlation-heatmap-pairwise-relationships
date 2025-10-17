@@ -1,0 +1,19 @@
+
+Correlation Analysis Summary:
+-----------------------------
+The heatmap visualizes pairwise Pearson correlations between numerical variables.
+
+Strongest Positive Correlation:
+Units_Sold and Revenue → Correlation = 0.70
+
+Strongest Negative Correlation:
+Customer_Rating and Advertising_Spend → Correlation = -0.15
+
+Observations:
+- Revenue is strongly positively correlated with Units_Sold and Product_Price, as expected.
+- Advertising_Spend may show weak to moderate correlation with Units_Sold and Revenue.
+- Customer_Rating tends to be independent from numerical marketing metrics.
+
+Charts saved:
+- correlation_heatmap.png
+- pairwise_relationships.png
